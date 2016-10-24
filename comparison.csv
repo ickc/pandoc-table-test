@@ -1,0 +1,5 @@
+,multiline,block,column alignments,Omitting header,Column Width,Notes,
+simple_tables,0,0,1,1,0,,by relative position between header/1st line of text and dashes
+multiline_tables,1,0,1,1,1,,by relative position between header/1st line of text and dashes
+grid_tables,1,1,0,1,1,,
+pipe_tables,0,0,1,0,0.5,column width: only when printable content is wider than the column width,by colons in the dashes line
