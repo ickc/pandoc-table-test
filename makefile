@@ -7,7 +7,6 @@ htmlTables := $(patsubst html-source/%.html,html-tables/%.md,$(htmlSource))
 MD := $(wildcard */*.md)
 MD2HTML :=  $(patsubst %.md,%.html,$(MD))
 
-all: html2md md2html
 html2md: $(simpleTables) $(multilineTables) $(gridTables) $(pipeTables) $(htmlTables)
 md2html: $(MD2HTML)
 
