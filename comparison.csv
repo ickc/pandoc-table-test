@@ -1,4 +1,4 @@
-,multiline,block,column alignments,Omitting header,Column Width,Notes,
+pandoc table type,multiline,block,column alignments,Omitting header,Column Width,Notes,
 simple_tables,0,0,1,1,0,,by relative position between header/1st line of text and dashes
 multiline_tables,1,0,1,1,1,,by relative position between header/1st line of text and dashes
 grid_tables,1,1,0,1,1,,
